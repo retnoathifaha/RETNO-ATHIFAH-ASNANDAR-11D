@@ -32,7 +32,6 @@ footer{
     padding: 15px;
     margin-top: 20px;
 }
-}
 .daftar-produk{
     display:grid;
     grid-template-columns: repeat(auto-fit, 
@@ -42,7 +41,7 @@ footer{
 }
 .produk{
     background-color: plum;
-    border: 1px saddlebrown;
+    border: 1px solid saddlebrown;
     padding: 15px;
     border-radius: 10px;
     text-align: center;
@@ -175,6 +174,7 @@ footer {
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
     text-align: center;
 }
+
 
 
 
